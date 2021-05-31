@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.para1 {
+    padding: 7px;
+}
+
+h1 {text-align: center;
+    color: orange;
+}
+
+.heading {
+    text-align: center;
+    color: blue;
+}
+
+.vision {
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.vision2 {
+    padding-top: 2%;
+    padding-left: 8%;
+}
+
+.stud1 {
+    padding: 5%;
+}
+.stud2 {
+    padding-top: 2px;
+    padding-right: 5%;
+    height: 320px;
+    width: 600px;
+}
+.stud3 {
+    padding-top: 2px;
+    padding-right: 10%;
+    height:  320px;
+    width: 950px;
+}
+
+.vis_head {
+    color: red;
+}
+
+footer{
+    color: aquamarine;
+    background-color: black;
+    text-align: center;
+    height: 35px
+}
+
+body {
+    background-image: linear-gradient(0deg, rgb(247, 247, 247) 23.8%, rgb(252, 221, 221) 92%);
+}
